@@ -1,0 +1,186 @@
+body
+{
+    background-color: #FAFAFA;
+}
+
+#indexPageImage
+{
+    position: relative;
+    top: 72px;
+    width: 576px;
+    height: 576px;
+    box-shadow: 0px 4px 31px #0000000A;
+    border: 20px solid #FFFFFF;
+    border-radius: 288px;
+}
+
+.login-group
+{
+    margin-left: 163px;
+    position: relative;
+    top: 106px;
+}
+
+.login-page-logo
+{
+    width: 272px;
+    height: 58px;
+}
+
+.login-group-header
+{
+    margin-top: 20px;
+    margin-bottom: 22px;
+    text-align: left;
+    font: normal normal 300 40px/47px Roboto;
+    color: #3E3E3E;
+}
+
+.login-header
+{
+    margin: 10px 0px;
+    padding: 0px;
+    text-align: left;
+    font: normal normal normal 25px/33px Roboto;
+    letter-spacing: 0px;
+    color: #3E3E3E;
+}
+
+.form-field
+{
+    margin: 13.5px 0px;
+    padding: 15px 15px;
+    width: 429px;
+    height: 49px;
+    border: 1px solid #ADADAD;
+    font: normal normal normal 15px/20px Roboto;
+    color: #ADADAD;
+    border-radius: 5px;
+}
+
+::placeholder
+{
+    font: normal normal normal 15px/20px Roboto;
+    color: #ADADAD;
+}
+
+.expert
+{
+    color: #C8242F;
+    font-weight: 900;
+}
+
+.login-button
+{
+    margin-top: 17px;
+    margin-right: 170px;
+    margin-bottom: 23px;
+    width: 138px;
+    height: 45px;
+    background: #C8242F 0% 0% no-repeat padding-box;
+    border: none;
+    font: normal normal medium 18px/24px Roboto;
+    color: #FFFFFF;
+    border-radius: 23px;
+    font-weight: 600;
+    opacity: 1;
+}
+
+.normal-text
+{
+    font: normal normal normal 15px/20px Roboto;
+    color: #ADADAD;
+    text-decoration: none;
+}
+
+.registerHere
+{
+    text-decoration: none;
+    font: normal normal normal 15px/20px Roboto;
+    color: #C8242F;
+}
+
+#menuButton
+{
+    margin-left: 29px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#header-logo
+{
+    margin: 25px;
+    margin-right: 60px;
+}
+
+#searchIcon
+{
+    width: 16px;
+    height: 16px;
+    margin: 32px 0px;
+}
+
+.inlineText ::placeholder
+{
+    font: normal normal normal 16px/21px Roboto;
+    color: #000000;
+}
+
+.inlineText > .form-field
+{
+    border: none;
+}
+
+.right
+{
+    text-align: right;
+}
+
+.inlineText
+{
+    display: inline;
+    font: normal normal normal 16px/21px Roboto;
+}
+
+#notificationIcon
+{
+    margin: 30px 30px;
+}
+
+#profileImg
+{
+    margin: 30px 12px;
+}
+
+#arrowIcon
+{
+    margin: 0px 15px;
+}
+
+.main-content
+{
+    background-color: #FAFAFA;
+}
+
+.sidebarIcon
+{
+    width: 15px;
+    height: 15px;
+}
+
+.sidebar-items
+{
+    width: 183px;
+    height: 43px;
+    padding: 10px 18px;
+    font: normal normal normal 16px/21px Roboto;
+    color: #3E3E3E;
+    margin: 10px 30px;
+}
+
+.selectedItem
+{
+    background: #FFF3F4 0% 0% no-repeat;
+    border-radius: 5px;
+    color: #C8242F;
+}
